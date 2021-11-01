@@ -8,5 +8,5 @@ This repository will be used to learn some github basics as well as C language b
 ##Setup
 
 ```
-$code here
+code here
 ```
