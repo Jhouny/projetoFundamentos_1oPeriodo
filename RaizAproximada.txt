@@ -1,0 +1,75 @@
+notação --> raiz de 19 = #19
+
+/*=================================================*/
+
+//Generalização (Hipótese)
+x = #n -> x² = n -> x²-n = 0
+f(x) = x²-n
+
+tg-line: y-f(a) = 2a(x-a)
+
+x-intercept: 0 = 2ax-a²-n
+tg-point: P = f(a) = a²-n
+
+#n: tg-point == 0 --> x-intercept = #n
+
+Ideia: Ao mudar progressivamente o valor de a 
+(a++, começando em a = 0), quando a tangente à 
+função geral for igual a 0, o valor de a será a 
+raiz do número. 
+
+No começo, usar incrementos grandes (1?), e quando o
+ponto tangente "passar" de 0, inverter a "direção" da
+soma, e utilizar deltas menores.
+
+/*=================================================*/
+
+
+//Teste para n = 16
+x = #16 -> x² = 16 -> x²-16 = 0 
+
+y = x²-16
+
+y-(a²-16) = 2a(x-a)
+
+y-a²+16 = 2ax-2a²
+y = 2ax-a²-16
+
+x-intercept: 0 = 2ax-a²-16
+
+x-int: x = (a²+16)/2a
+
+tangent point: a²-16
+#number: x-int == tgp
+
+{
+	a = 1
+	x-int: 8.5
+	tgp: -15	
+}
+
+{
+	a = 2
+	x-int: 5
+	tgp: -12
+}
+
+{
+	a = 3
+	x-int: 4+1/6
+	tgp: -7
+}
+
+{
+	a = 4
+	x-int: 4
+	tgp: 0
+}
+
+{
+	a = 5
+	x-int: 4.1
+	tgp: 9
+}
+
+
