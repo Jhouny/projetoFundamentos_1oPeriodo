@@ -20,9 +20,9 @@
 /*============================================================================*/
 /* Selecione aqui quais funções devem ser testadas. */
 
-#define TESTA_FOURCC 1
-#define TESTA_RETANGULOS 1
-#define TESTA_RAIZ 1
+#define TESTA_FOURCC 0
+#define TESTA_RETANGULOS 0
+#define TESTA_RAIZ 0
 
 /*----------------------------------------------------------------------------*/
 /* Configuração dos testes. Para as funções fourcc e calculaInterseccao,

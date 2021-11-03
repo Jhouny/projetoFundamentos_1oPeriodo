@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635972943 source:c:\users\user\documents\github\projetofundamentos_1operiodo\desafio\desafio.c
+	<stdio.h>
+
+1635972457 source:c:\users\user\documents\github\projetofundamentos_1operiodo\desafio\main.c
+	<stdio.h>
+	<math.h>
+	"desafio.h"
+
+1635945791 c:\users\user\documents\github\projetofundamentos_1operiodo\desafio\desafio.h
+

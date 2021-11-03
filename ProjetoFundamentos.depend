@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1635945123 source:c:\users\user\documents\github\projetofundamentos_1operiodo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<float.h>
+	"trabalho1.h"
+
+1635894977 c:\users\user\documents\github\projetofundamentos_1operiodo\trabalho1.h
+
+1635894977 source:c:\users\user\documents\github\projetofundamentos_1operiodo\trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+
+1635945067 source:c:\users\user\documents\github\projetofundamentos_1operiodo\t1-2358859.c
+	"trabalho1.h"
+	<math.h>
+
+1635945137 source:c:\users\user\documents\github\projetofundamentos_1operiodo\desafio.c
+	<stdio.h>
+
