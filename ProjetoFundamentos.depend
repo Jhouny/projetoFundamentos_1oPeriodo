@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1635945123 source:c:\users\user\documents\github\projetofundamentos_1operiodo\main.c
+1636292329 source:c:\users\user\documents\github\projetofundamentos_1operiodo\main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
@@ -13,7 +13,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1635945067 source:c:\users\user\documents\github\projetofundamentos_1operiodo\t1-2358859.c
+1636292457 source:c:\users\user\documents\github\projetofundamentos_1operiodo\t1-2358859.c
 	"trabalho1.h"
 	<math.h>
 

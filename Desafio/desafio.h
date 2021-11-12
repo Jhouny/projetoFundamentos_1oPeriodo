@@ -2,5 +2,5 @@
 #define DESAFIO_H
 
 int codigoValido(unsigned int n, int tamanho);
-
+void mostraBits (unsigned int n, int tamanho);
 #endif // DESAFIO_H
