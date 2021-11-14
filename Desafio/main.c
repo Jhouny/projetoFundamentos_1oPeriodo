@@ -2,7 +2,7 @@
 #include <math.h>
 #include "desafio.h"
 
-#define N_BITS 17
+#define N_BITS 15
 
 /* Mostra os últimos bits de um número. */
 void mostraBits (unsigned int n, int tamanho) {
